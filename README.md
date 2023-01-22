@@ -6,6 +6,9 @@
 ## 💫 About Me:
 🛠   I’m currently working with MFC Developer for NPAV Company <br>🚀   I’m currently learning Java.<br>👨🏻‍💻 Most of my projects are available on [Github]([https://github.com/Shivam-Saini-SS](https://github.com/Shrikrushnatekade)).<br>💬   Connect with me elsewhere but [here]()!<br>👾   Fun fact: Equal is Not Always Equal in Javascript.<br>📫   How to reach me: shrikrushnatekade8@gmail.com.
 
+## 🐍 Oops! My GitHub Contribution Graph is getting eaten by snake:
+![snake gif](https://github.com/Shrikrushnatekade/shrikrushnatekade/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **Shrikrushnatekade/shrikrushnatekade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
