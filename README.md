@@ -4,7 +4,7 @@
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 
 ## 💫 About Me:
-🛠   I’m currently working with MFC Developer for NPAV Company <br>🚀   I’m currently learning Java.<br>👨🏻‍💻 Most of my projects are available on [Github]([https://github.com/Shivam-Saini-SS](https://github.com/Shrikrushnatekade)).<br>💬   Connect with me elsewhere but [here]()!<br>👾   Fun fact: Equal is Not Always Equal in Javascript.<br>📫   How to reach me: shrikrushnatekade8@gmail.com.
+🛠   I’m currently working with MFC Developer for NPAV Company <br>🚀  I’m currently learning Java.<br>👨🏻‍💻 Most of my projects are available on [Github]([https://github.com/Shivam-Saini-SS](https://github.com/Shrikrushnatekade)).<br>💬 Connect with me elsewhere but [here]()<br>📫   How to reach me: shrikrushnatekade8@gmail.com.
 
 <br>
 
