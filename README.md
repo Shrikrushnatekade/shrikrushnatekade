@@ -4,9 +4,9 @@
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 
 ## 💫 About Me:
-🛠   I’m currently working with MFC Developer for NPAV Company <br>🚀  I’m currently learning Java.<br>👨🏻‍💻 Most of my projects are available on ![Github](https://github.com/Shivam-Saini-SS](https://github.com/Shrikrushnatekade).<br>💬 Connect with me elsewhere but [here]()<br>📫   How to reach me: shrikrushnatekade8@gmail.com.
+🛠   I’m currently working with MFC Developer for NPAV Company <br>🚀  I’m currently learning Java.<br>👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Shrikrushnatekade).<br>📫   How to reach me: shrikrushnatekade8@gmail.com.
 
-<br>
+<br><br>
 
 ## 🌐 Socials:
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrikrushnatekade)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrikrushnatekade/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/krushna_tekade) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr__shrikrushna/)
